@@ -7,8 +7,8 @@ function  bestTeam( player1, player2 ) {
             return "Invalid";
           }
 
-    let = firstTeamMistake = player1.foul + player1.cardY + player1.cardR;
-    let = secondTeamMistake = player2.foul + player2.cardY + player2.cardR;
+      let = firstTeamMistake = player1.foul + player1.cardY + player1.cardR;
+      let = secondTeamMistake = player2.foul + player2.cardY + player2.cardR;
 
           if(firstTeamMistake < secondTeamMistake){
 
